@@ -1,0 +1,43 @@
+﻿@charset "UTF-8";
+/* -*- coding: UTF-8, tab-width: 2 -*- */
+/*
+
+To use this file, add an @import statement to ../local/custom.css, e.g.:
+@import url("../src/widescreen.css");
+
+*/
+
+body > .link-container > a[href="blog:///unterstuetzen/"],
+.content > .support-box,
+.content > .author,
+dnw#clutter { display: none; }
+
+body > .site-header:not(:hover) { position: absolute; top: 0; right: 0;
+  width: 2em; height: 2em; overflow: hidden; }
+
+.content > #nachklapp { border: 2px solid grey; height: 8em;
+  overflow: scroll; overflow-x: auto; resize: vertical; }
+
+.content > #nachklapp,
+.content > .comment-container > #comments,
+.content > .comment-container { margin-top: 10em; }
+
+#wrapper .posts,
+#wrapper { max-width: unset; }
+#wrapper { margin-top: 0; }
+
+.content { font-size: 14px; line-height: 1.2; }
+
+.content > ul,
+.content > ol,
+.content pre,
+.content table,
+.content fieldset,
+.content p { margin-bottom: 0.5em; }
+
+
+
+
+
+
+/* scroll */
