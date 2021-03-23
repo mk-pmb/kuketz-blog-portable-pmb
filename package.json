@@ -1,0 +1,26 @@
+{ "name": "kuketz-blog-portable-pmb",
+  "version": "0.0.1",
+  "description": "Download/cache/reformat blog posts from kuketz-blog.de",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/kuketz-blog-portable-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/kuketz-blog-portable-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/kuketz-blog-portable-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+  "scripts": { "test": "nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
