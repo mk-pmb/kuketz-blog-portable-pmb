@@ -1,5 +1,5 @@
 { "name": "kuketz-blog-portable-pmb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Download/cache/reformat blog posts from kuketz-blog.de for offline reading with custom CSS overrides.",
   "keywords": [],
 
